@@ -24,3 +24,5 @@ Steam api key için gereken domain'i ise webhook adresimiz ile doldurmamız gere
 
 
 Sonra ise start Serverlogging yaparak tüm işlemleri tamamlayabilirsiniz.
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/p0GKshJ/image.png" alt="image" border="0"></a>
